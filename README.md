@@ -24,6 +24,13 @@ Watch PlotToolsAssist in action: [YouTube Explanation](https://youtube.com/live/
 
 ---
 
+## 🚀 Release v1.0.0
+
+Check out the first official release of **PlotToolsAssist**:  
+[View Release v1.0.0 on GitHub](https://github.com/fredyarcol/PlotToolsAssist/releases/tag/Palia)
+
+---
+
 ## Dependencies
 
 - **Python 3.11+**  
