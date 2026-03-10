@@ -33,8 +33,8 @@ Check out the first official release of **PlotToolsAssist**:
 
 ## Dependencies
 
-- **Python 3.11+**  
-- **Selenium**  
+- **Python 3.11+ (embedded)**   
+- **Selenium (embedded)**   
 - **Palia Assistant (embedded)**  
 
 > ⚠️ These tools are only required to fetch and process item data. PlotToolsAssist itself is purely for statistical analysis.
